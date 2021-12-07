@@ -1,7 +1,7 @@
 # Metrics
 
 # Metrics for Regrission
-                         metrics.mean_absolute_error
+                        metrics.mean_absolute_error
 			
                         metrics.mean_squared_error
 			
@@ -9,7 +9,7 @@
 
 
 # Metrics for classification
-	                metrics.confusion_matrix
+	                 metrics.confusion_matrix
 			
                         metrics.accuracy_score
 			
