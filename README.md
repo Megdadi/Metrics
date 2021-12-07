@@ -9,7 +9,7 @@
 
 
 # Metrics for classification
-	                 metrics.confusion_matrix
+	                  metrics.confusion_matrix
 			
                         metrics.accuracy_score
 			
